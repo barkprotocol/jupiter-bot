@@ -1,0 +1,12 @@
+{
+    "solanaRpcUrl": "https://api.devnet.solana.com",
+    "heliusApiUrl": "https://api.helius.xyz/v0",
+    "heliusApiKey": "YOUR_HELIUS_API_KEY",
+    "jupiterApiUrl": "https://quote-api.jup.ag/v1/quote",
+    "secretKey": "YOUR_SECRET_KEY",
+    "inputMint": "INPUT_MINT_ADDRESS",
+    "outputMint": "OUTPUT_MINT_ADDRESS",
+    "targetGainPercentage": 1.5,
+    "priceWatchInterval": 5000,
+    "slippageTolerance": 0.5
+}
