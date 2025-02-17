@@ -30,8 +30,8 @@ importers:
         specifier: ^0.13.0
         version: 0.13.0
       pnpm:
-        specifier: ^9.12.3
-        version: 9.12.3
+        specifier: ^9.15.0
+        version: 9.15.0
     devDependencies:
       ts-node:
         specifier: ^10.9.2
@@ -354,8 +354,8 @@ packages:
     resolution: {integrity: sha512-IRUxE4BVsHWXkV/SFOut4qTlagw2aM8T5/vnTsmrHJvVoKueJHRc/JaFND7QDDc61kLYUJ6qlZM3sqTSyx2dTw==}
     hasBin: true
 
-  pnpm@9.12.3:
-    resolution: {integrity: sha512-zOD53pxafJW++UQWnMXf6HQav7FFB4wNUIuGgFaEiofIHmJiRstglny9f9KabAYu9z/4QNlrPIbECsks9KgT7g==}
+  pnpm@9.15.0:
+    resolution: {integrity: sha512-duI3l2CkMo7EQVgVvNZije5yevN3mqpMkU45RBVsQpmSGon5djge4QfUHxLPpLZmgcqccY8GaPoIMe1MbYulbA==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -797,7 +797,7 @@ snapshots:
   node-gyp-build@4.8.2:
     optional: true
 
-  pnpm@9.12.3: {}
+  pnpm@9.15.0: {}
 
   proxy-from-env@1.1.0: {}
 
